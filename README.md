@@ -1,0 +1,2 @@
+# T91S_CODEC
+CODEC for T91S &amp; A20
